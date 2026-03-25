@@ -41,4 +41,13 @@ The repeated failed login attempts suggest a possible brute-force attack targeti
 
 ## Screenshots
 
-(To be added after analysis in Splunk)
+## Screenshots
+
+### All Logs
+![All Logs](logs.png)
+
+### Failed Login Attempts
+![Failed](failed.png)
+
+### IP Analysis
+![Analysis](analysis.png)
