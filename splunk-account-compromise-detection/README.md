@@ -68,10 +68,18 @@ index=main sourcetype=compromise_log "Accepted password"
 
 ## Findings
 
-* Suspicious IP: 203.0.113.5
-* This IP performed multiple failed login attempts
-* The same IP attempted access to multiple accounts
+- Multiple IP addresses attempted failed logins  
+- IP 45.33.32.156 performed several failed login attempts  
+- The same IP later successfully logged into user account "michael"  
+- This indicates the attacker was able to guess the password  
 
+---
+
+## Conclusion
+
+The activity shows a **confirmed account compromise**, where an attacker successfully gained access after multiple failed login attempts.
+
+This is a classic **brute-force attack leading to unauthorized access**.
 ---
 
 ## Security Concern
@@ -101,3 +109,28 @@ This activity indicates a **potential account compromise attempt** through brute
 * Threat detection
 * Regex (field extraction)
 * SIEM investigation
+
+  ## Screenshots
+
+### 1. All Logs
+![All Logs](all-logs.png)
+
+---
+
+### 2. Failed Login Attempts
+![Failed Attempts](failed-logins.png)
+
+---
+
+### 3. Attacker IP Analysis
+![Attacker IP Analysis](attacker-ip-analysis.png)
+
+---
+
+### 4. Successful Logins
+![Successful Logins](successful-logins.png)
+
+---
+
+### 5. IP and User Extraction
+![IP and User Extraction](ip-user-extraction.png)
