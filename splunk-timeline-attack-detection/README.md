@@ -112,6 +112,31 @@ This activity represents a **confirmed account compromise**, where an attacker g
 
 ---
 
+## Screenshots
+
+### 1. All Logs
+![All Logs](all-logs.png)
+
+---
+
+### 2. Timeline Analysis
+![Timeline](timeline-analysis.png)
+
+---
+
+### 3. Failed Login Attempts
+![Failed](failed-logins.png)
+
+---
+
+### 4. Successful Logins
+![Successful](successful-logins.png)
+
+---
+
+### 5. IP and User Correlation
+![IP User](ip-user-correlation.png)
+
 ## Skills Demonstrated
 
 * Log analysis
