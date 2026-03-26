@@ -1,91 +1,80 @@
-# Cybersecurity Portfolio - Adetayo Adedeji
+# Cybersecurity Portfolio
 
 ## About Me
 
-Aspiring SOC Analyst with hands-on experience in log analysis, threat detection, and security investigations. Skilled in identifying suspicious activity and analyzing authentication logs using industry tools.
+Aspiring **SOC Analyst (Tier 1)** with hands-on experience in log analysis, threat detection, and security monitoring using SIEM tools.
+
+I have built practical cybersecurity projects using Splunk to investigate real-world attack scenarios, including brute-force attacks, account compromise, insider threats, and password spraying attacks.
+
+Focused on developing strong skills in:
+
+* Log analysis
+* Threat detection
+* Incident investigation
+* Security monitoring
 
 ---
 
 ## Skills
 
 * SIEM: Splunk
-* Networking: TCP/IP, DNS, HTTP
-* Tools: Wireshark, Linux
-* Security: Threat Detection, Incident Response
-* Log Analysis: Authentication logs, attack detection
+* Log Analysis
+* Regex (Field Extraction)
+* Threat Detection
+* Incident Response
+* Security Monitoring
 
 ---
 
 ## Projects
 
-### 🔍 Splunk Log Analysis – Brute Force Detection
+### 🔹 Splunk Brute Force Detection
 
-#### Overview
+Detected repeated failed login attempts from a single IP address to identify brute-force attack activity.
 
-This project demonstrates the analysis of SSH authentication logs using Splunk to identify suspicious login activity and detect potential brute-force attacks.
+### 🔹 Splunk Account Compromise Detection
 
----
+Analyzed authentication logs to detect successful logins following multiple failed attempts, indicating account compromise.
 
-#### Investigation Steps
+### 🔹 Splunk Timeline Attack Detection
 
-* Ingested log data into Splunk
-* Filtered failed login attempts
-* Extracted IP addresses using regex
-* Aggregated login attempts by IP address
-* Identified suspicious patterns
+Reconstructed attack timelines to understand the sequence of events and identify suspicious login patterns.
 
----
+### 🔹 Splunk Insider Threat Detection
 
-#### Findings
+Identified unusual login behavior where a user accessed systems from multiple IP addresses within a short time frame.
 
-* 203.0.113.5 → 6 failed attempts
-* 192.168.1.10 → 5 failed attempts
-* 198.51.100.23 → 5 failed attempts
+### 🔹 Splunk Password Spraying Detection
 
-Multiple usernames were targeted, including admin, root, guest, oracle, and postgres.
+Detected password spraying activity where a single IP attempted multiple usernames before successfully accessing a valid account.
 
 ---
 
-#### Security Concern
+## Tools & Technologies
 
-Successful login events were also identified in the logs, indicating potential unauthorized access following repeated failed attempts.
-
----
-
-#### Conclusion
-
-The activity is consistent with a brute-force attack. Repeated login attempts from specific IP addresses, combined with successful logins, suggest a possible security compromise.
+* Splunk Enterprise
+* Linux (Basic)
+* Git & GitHub
 
 ---
 
-#### Recommendations
+## What I Am Currently Learning
 
-* Investigate accounts with successful logins
-* Block or monitor suspicious IP addresses
-* Implement multi-factor authentication (MFA)
-* Enable account lockout policies
-* Continuously monitor authentication logs
+* Advanced Splunk queries and detection techniques
+* Linux for security analysis
+* Real-world SOC workflows
 
 ---
 
-## Screenshots
+## Target Role
 
-### All Logs
-
-![All Logs](logs.png)
-
-### Failed Login Attempts
-
-![Failed](failed.png)
-
-### IP Analysis
-
-![Analysis](analysis.png)
-
+**SOC Analyst (Tier 1)**
 
 ---
 
 ## Contact
 
-* Email: [adedejiadetayo33@gmail.com](mailto:adedejiadetayo33@gmail.com)
-* LinkedIn: (add your link here)
+* GitHub: https://github.com/Cybervault-1
+* Email: adedejiadetayo33@gmail.com
+* LinkedIn: https://www.linkedin.com/in/adetayo-adedeji-473816337/
+---
