@@ -1,10 +1,14 @@
 # Cybersecurity Portfolio
 
+🚨 Hands-on SOC Analyst portfolio focused on detecting real-world cyber attacks using Splunk.
+
+---
+
 ## About Me
 
-Aspiring **SOC Analyst (Tier 1)** with hands-on experience in log analysis, threat detection, and security monitoring using SIEM tools.
+Aspiring **SOC Analyst (Tier 1)** with practical experience analyzing logs, detecting security threats, and investigating incidents using Splunk.
 
-I have built practical cybersecurity projects using Splunk to investigate real-world attack scenarios, including brute-force attacks, account compromise, insider threats, and password spraying attacks.
+I have built multiple hands-on cybersecurity projects that simulate real-world attack scenarios, including brute-force attacks, account compromise, insider threats, and password spraying attacks.
 
 Focused on developing strong skills in:
 
@@ -19,34 +23,31 @@ Focused on developing strong skills in:
 
 * SIEM: Splunk
 * Log Analysis
-* Regex (Field Extraction)
 * Threat Detection
-* Incident Response
+* Regex (Field Extraction)
+* Incident Investigation
 * Security Monitoring
+* Basic Linux
+
+---
+
+## Featured Skills Demonstrated
+
+* Detection of brute-force attacks using log analysis
+* Identification of account compromise through event correlation
+* Timeline reconstruction of attack sequences
+* Behavioral analysis for insider threats
+* Detection of password spraying attacks
 
 ---
 
 ## Projects
 
-### 🔹 Splunk Brute Force Detection
-
-Detected repeated failed login attempts from a single IP address to identify brute-force attack activity.
-
-### 🔹 Splunk Account Compromise Detection
-
-Analyzed authentication logs to detect successful logins following multiple failed attempts, indicating account compromise.
-
-### 🔹 Splunk Timeline Attack Detection
-
-Reconstructed attack timelines to understand the sequence of events and identify suspicious login patterns.
-
-### 🔹 Splunk Insider Threat Detection
-
-Identified unusual login behavior where a user accessed systems from multiple IP addresses within a short time frame.
-
-### 🔹 Splunk Password Spraying Detection
-
-Detected password spraying activity where a single IP attempted multiple usernames before successfully accessing a valid account.
+* [Splunk Brute Force Detection](./splunk-brute-force-detection)
+* [Splunk Account Compromise Detection](./splunk-account-compromise-detection)
+* [Splunk Timeline Attack Detection](./splunk-timeline-attack-detection)
+* [Splunk Insider Threat Detection](./splunk-insider-threat-detection)
+* [Splunk Password Spraying Detection](./splunk-password-spraying-detection)
 
 ---
 
@@ -58,9 +59,9 @@ Detected password spraying activity where a single IP attempted multiple usernam
 
 ---
 
-## continous Learning
+## Continuous Learning
 
-* Advanced Splunk queries and detection techniques
+* Advanced Splunk detection techniques
 * Linux for security analysis
 * Real-world SOC workflows
 
@@ -72,9 +73,16 @@ Detected password spraying activity where a single IP attempted multiple usernam
 
 ---
 
+## Open to Opportunities
+
+I am actively seeking entry-level SOC Analyst or cybersecurity roles where I can apply my skills in threat detection, log analysis, and incident investigation.
+
+---
+
 ## Contact
 
 * GitHub: https://github.com/Cybervault-1
-* Email: adedejiadetayo33@gmail.com
-* LinkedIn: https://www.linkedin.com/in/adetayo-adedeji-473816337/
+* Email: [adedejiadetayo33@gmail.com](mailto:adedejiadetayo33@gmail.com)
+* LinkedIn: (add when available)
+
 ---
