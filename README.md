@@ -10,7 +10,7 @@ Focused on detecting, analyzing, and investigating real-world security threats u
 
 Aspiring **SOC Analyst (Tier 1)** with practical experience analyzing logs, detecting security threats, and investigating incidents using Splunk.
 
-I have built multiple hands-on cybersecurity projects that simulate real-world attack scenarios, including brute-force attacks, account compromise, insider threats, and password spraying attacks.
+I have developed multiple hands-on cybersecurity projects that simulate real-world attack scenarios, including brute-force attacks, account compromise, insider threats, and password spraying attacks. I am confident in my ability to analyze security events and contribute effectively in a SOC environment.
 
 Focused on developing strong skills in:
 
@@ -44,6 +44,8 @@ Focused on developing strong skills in:
 ---
 
 ## Projects
+
+Below are hands-on cybersecurity investigations performed using Splunk:
 
 * [Splunk Brute Force Detection](./splunk-brute-force-detection)
 * [Splunk Account Compromise Detection](./splunk-account-compromise-detection)
