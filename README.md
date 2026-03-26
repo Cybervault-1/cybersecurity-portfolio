@@ -1,6 +1,7 @@
 # Cybersecurity Portfolio
 
 🚨 Hands-on SOC Analyst portfolio focused on detecting real-world cyber attacks using Splunk.
+
 Focused on detecting, analyzing, and investigating real-world security threats using SIEM tools.
 
 ---
