@@ -58,7 +58,7 @@ Detected password spraying activity where a single IP attempted multiple usernam
 
 ---
 
-## What I Am Currently Learning
+## continous Learning
 
 * Advanced Splunk queries and detection techniques
 * Linux for security analysis
