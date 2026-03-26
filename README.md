@@ -1,6 +1,7 @@
 # Cybersecurity Portfolio
 
 🚨 Hands-on SOC Analyst portfolio focused on detecting real-world cyber attacks using Splunk.
+Focused on detecting, analyzing, and investigating real-world security threats using SIEM tools.
 
 ---
 
@@ -83,6 +84,5 @@ I am actively seeking entry-level SOC Analyst or cybersecurity roles where I can
 
 * GitHub: https://github.com/Cybervault-1
 * Email: [adedejiadetayo33@gmail.com](mailto:adedejiadetayo33@gmail.com)
-* LinkedIn: (add when available)
-
+* LinkedIn: https://www.linkedin.com/in/adetayo-adedeji-473816337/
 ---
