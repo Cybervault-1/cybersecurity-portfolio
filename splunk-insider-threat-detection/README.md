@@ -122,3 +122,23 @@ This activity indicates **suspicious login behavior consistent with a potential 
 * Timeline reconstruction
 * Threat detection
 * SIEM investigation
+
+  ## Screenshots
+
+### 1. All Logs
+![All Logs](all-logs.png)
+
+---
+
+### 2. Timeline Analysis
+![Timeline](timeline-analysis.png)
+
+---
+
+### 3. David Activity
+![David Activity](david-activity.png)
+
+---
+
+### 4. IP and User Analysis
+![IP User](ip-user-analysis.png)
