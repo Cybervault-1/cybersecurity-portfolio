@@ -112,6 +112,15 @@ This activity represents a **confirmed account compromise**, where an attacker g
 
 ---
 
+## Skills Demonstrated
+
+* Log analysis
+* Timeline reconstruction
+* Threat detection
+* Event correlation
+* SIEM investigation
+
+  
 ## Screenshots
 
 ### 1. All Logs
@@ -136,11 +145,3 @@ This activity represents a **confirmed account compromise**, where an attacker g
 
 ### 5. IP and User Correlation
 ![IP User](ip-user-correlation.png)
-
-## Skills Demonstrated
-
-* Log analysis
-* Timeline reconstruction
-* Threat detection
-* Event correlation
-* SIEM investigation
